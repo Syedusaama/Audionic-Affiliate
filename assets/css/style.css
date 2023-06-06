@@ -509,7 +509,7 @@ ul.dropdown li a:hover {
     color: #030404;
 }
 .main-red-btn{
-    padding: 25px 120px;
+    padding: 25px 90px;
     border-radius: 56px;
     color: #fff;
     border: 1px solid #e91c23;
@@ -568,6 +568,7 @@ ul.dropdown li a:hover {
 
 
 /* commission-tiers-box */
+/* .join-the-affiliate */
 .join-the-affiliate{
     background-size: cover;
     background-position: bottom;
@@ -580,11 +581,42 @@ ul.dropdown li a:hover {
 .affiliate-coloumns-second{
     padding: 170px 200px 170px 270px;
 }
+/* .join-the-affiliate */
 
-
-
-
-
+/* how-affiliate-works */
+.how-affiliate-works{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding-top: 120px;
+    padding-bottom: 130px;
+}
+.work-content-box{
+    padding: 50px 50px;
+    margin-top: -85px;
+    position: relative;
+    z-index: 1;
+}
+.work-content-box img{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.work-content-box p{
+    padding-bottom: 50px;
+    line-height: 1.5;
+}
+.work-main-div{
+    max-width: 1500px;
+}
+.work-heading-h2{
+    color: #e81c23;
+    font-size: 120px;
+    font-weight: bold;
+}
+/* how-affiliate-works */
 
 
 

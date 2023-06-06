@@ -126,25 +126,51 @@
 
 
 <!---------------- How Affiliate Works  ------------------>
-<section class="main-banner">
-    <div class="container">
+<section class="how-affiliate-works">
+    <div class="container-fluid">
     <div class="heading-sec text-center">
                     <h2>How <span style="color: #e91c23;"> Affiliate Works</span></h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
-        <div class="row">
+                <div class="work-main-div">
+                <div class="row text-center">
             <div class="col-md-3">
-                
+            <div class="work-heading-h2">
+                <h2>01</h2>
+                </div>
+                <div class="work-content-box" style="background-image: url(assets/images/work-sec.png);background-size: contain;background-repeat: no-repeat;background-position: center;">
+                    <img src="assets/images/search.png" alt="">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                </div>
             </div>
             <div class="col-md-3">
-                
+            <div class="work-heading-h2">
+                <h2>02</h2>
+                </div>
+                <div class="work-content-box" style="background-image: url(assets/images/work-sec.png);background-size: contain;background-repeat: no-repeat;background-position: center;">
+                    <img src="assets/images/message.png" alt="">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                </div>
             </div>
             <div class="col-md-3">
-                
+            <div class="work-heading-h2">
+                <h2>03</h2>
+                </div>
+                <div class="work-content-box" style="background-image: url(assets/images/work-sec.png);background-size: contain;background-repeat: no-repeat;background-position: center;">
+                    <img src="assets/images/browser.png" alt="">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                </div>
             </div>
             <div class="col-md-3">
-                
+                <div class="work-heading-h2">
+                <h2>04</h2>
+                </div>
+                <div class="work-content-box" style="background-image: url(assets/images/work-sec.png);background-size: contain;background-repeat: no-repeat;background-position: center;">
+                    <img src="assets/images/share.png" alt="">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                </div>
             </div>
+        </div>
         </div>
     </div>
 </section>
@@ -153,18 +179,47 @@
 
 
 <!---------------- Join Our Affiliate Program  ------------------>
-<section class="main-banner">
-    <div class="container">
+<section class="join-our-affiliate" style="background-image: url(assets/images/bg-join.png);background-repeat: no-repeat;">
+    <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12">
-                
+            <div class="col-md-3">
+                <img src="assets/images/join-headphone.png" alt="">
+            </div>
+            <div class="col-md-6">
+            <div class="white-heading-sec">
+            <h2>Join Our Affiliate Program</h2>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <img src="assets/images/join-airpods.png" alt="">
             </div>
         </div>
     </div>
 </section>
 <!---------------- Join Our Affiliate Program  ------------------>
 
+<!---------------- I made PKR. 55,000!  ------------------>
+<section class="main-banner">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <img src="assets/images/boy.png" alt="">
+            </div>
+            <div class="col-md-6">
+            <div class="heading-sec">
+                    <h2>Earn with us at Exceptional <span style="color: #e91c23;"> Commission Tiers</span></h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <a class="main-red-btn" href="#">Become An Affiliate!</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
+
+
+
+<!---------------- I made PKR. 55,000!  ------------------>
 
 <!---------------- Frequently Asked Questions ------------------>
 <section class="main-banner">
