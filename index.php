@@ -199,7 +199,7 @@
 <!---------------- Join Our Affiliate Program  ------------------>
 
 <!---------------- I made PKR. 55,000!  ------------------>
-<section class="main-banner">
+<section class="earning">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-6">
@@ -207,9 +207,9 @@
             </div>
             <div class="col-md-6">
             <div class="heading-sec">
-                    <h2>Earn with us at Exceptional <span style="color: #e91c23;"> Commission Tiers</span></h2>
+                    <h2>I made <span style="color: #e91c23;"> PKR. 55,000! </span></h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                    <a class="main-red-btn" href="#">Become An Affiliate!</a>
+                    <a class="main-red-btn" href="#">Start Earning!</a>
                 </div>
             </div>
         </div>
