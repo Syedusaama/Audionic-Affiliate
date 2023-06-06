@@ -100,24 +100,23 @@
 
 
 <!---------------- Join  ------------------>
-<section class="main-banner">
+<section class="join-the-affiliate">
     <div class="container-fluid">
-        <!-- <div class="row"> -->
-            <div class="col-md-6" style="background-image: url(assets/images/affiliate-left.png);">
+        <div class="row">
+            <div class="col-md-6" style="background-image: url(assets/images/affiliate-left.png);  background-repeat:no-repeat;background-size: cover;">
             <div class="affiliate-coloumns-first" >
-                <div class="heading-sec">
-                    <h2>Earn with us at Exceptional <span style="color: #e91c23;"> Commission Tiers</span></h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                    <a class="main-btn" href="#">Become An Affiliate!</a>
+                <div class="white-heading-sec">
+                    <h2><span style="color: #e91c23;">#Join </span> The AffiIiate</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nis.</p>
+                    <a class="main-red-btn" href="#">Become An Affiliate!</a>
                 </div>
             </div>
             </div>
-            <div class="col-md-6">
-            <div class="affiliate-coloumns-second" style="background-image: url(assets/images/hand.png);">
-
+            <div class="col-md-6" style="background-image: url(assets/images/hand.png); background-repeat:no-repeat;background-size: cover;">
+            <div class="affiliate-coloumns-second" >
             </div>
             </div>
-        <!-- </div> -->
+        </div>
     </div>
 </section>
 <!---------------- Join  ------------------>
