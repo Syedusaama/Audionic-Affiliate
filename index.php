@@ -54,6 +54,10 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12">
+            <div class="heading-sec text-center">
+                    <h2>Earn with us at Exceptional <span style="color: #e91c23;"> Commission Tiers</span></h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                </div>
                 <div class="commission-tiers-box">
                     <div class="row">
                         <div class="col-md-3">

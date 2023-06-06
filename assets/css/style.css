@@ -537,8 +537,10 @@ ul.dropdown li a:hover {
 
 /* commission-tiers-box */
 .commission-tiers{
+    padding-top: 130px;
+    padding-bottom: 130px;
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
