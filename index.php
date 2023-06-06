@@ -222,11 +222,52 @@
 <!---------------- I made PKR. 55,000!  ------------------>
 
 <!---------------- Frequently Asked Questions ------------------>
-<section class="main-banner">
+<section class="frequently-asked">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                
+            <div class="heading-sec text-center">
+                    <h2>Frequently<span style="color: #e91c23;">  Asked Questions</span></h2>
+                </div>
+                <div class="frequently-ask-box">
+                    <ul class="faq-items">
+                        <li class="first">
+                            <div class="faq-box">
+                                <h4>What is the Audionic Referral Program?
+                                </h4>
+                                <div>
+                                    <p>
+                                        Of course. Share the design with us and our designers will convert it
+                                        into a digital logo for you. Although we love making custom logo designs
+                                        for our clients, we’d happily execute what you have in mind.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-box">
+                                <h4>What is the minimum order value?
+                                </h4>
+                                <div>
+                                    <p>
+                                        Of course. Share the design with us and our designers will convert it
+                                        into a digital logo for you. Although we love making custom logo designs
+                                        for our clients, we’d happily execute what you have in mind.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="faq-box">
+                                <h4>How to refer someone to Audionic?
+                                </h4>
+                                <div>
+                                    <p>
+                                        Of course. Share the design with us and our designers will convert it
+                                        into a digital logo for you. Although we love making custom logo designs
+                                        for our clients, we’d happily execute what you have in mind.
+                                    </p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>

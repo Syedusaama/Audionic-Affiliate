@@ -626,7 +626,46 @@ ul.dropdown li a:hover {
 /* earning */
 
 
+/* faq-box */
+.frequently-asked{
+    background-color: #f9f9f9;
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+.faq-box{
+    background-color: #fff;
+    padding: 40px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    box-shadow: 0 0 10px 3px #d5d5d514;
+}
+.active .faq-box::after {
+    transform: rotate(180deg);
+}
+.faq-box::after {
+    content: "\f0d7";
+    font-family: "Font Awesome 5 Pro";
+    position: absolute;
+    right: 38px;
+    top: 120px;
+    font-weight: 300;
+    font-size: 2.625rem;
+    color: #da0000;
+    transition: all 100ms ease;
+    line-height: 1.625rem;
+}
 
+.faq-box h4{
+    font-size: 22px;
+    font-weight: 600;
+    color: #000;
+    padding-bottom: 40px;
+}
+.faq-box p{
+    line-height: 1.5;
+    width: 80%;
+}
+/* faq-box */
 
 
 

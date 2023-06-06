@@ -154,3 +154,10 @@ function goToScroll(e) {
         1000
     );
 }
+
+$(".faq-box h4").on("click", function () {
+    $(this).parent().parent().siblings().removeClass("active");
+    $(".faq-box>div").slideUp();
+    $(this).parent().parent().addClass("active");
+    $(this).next().slideDown();
+});
