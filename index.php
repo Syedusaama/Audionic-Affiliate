@@ -101,12 +101,23 @@
 
 <!---------------- Join  ------------------>
 <section class="main-banner">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                
+    <div class="container-fluid">
+        <!-- <div class="row"> -->
+            <div class="col-md-6" style="background-image: url(assets/images/affiliate-left.png);">
+            <div class="affiliate-coloumns-first" >
+                <div class="heading-sec">
+                    <h2>Earn with us at Exceptional <span style="color: #e91c23;"> Commission Tiers</span></h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <a class="main-btn" href="#">Become An Affiliate!</a>
+                </div>
             </div>
-        </div>
+            </div>
+            <div class="col-md-6">
+            <div class="affiliate-coloumns-second" style="background-image: url(assets/images/hand.png);">
+
+            </div>
+            </div>
+        <!-- </div> -->
     </div>
 </section>
 <!---------------- Join  ------------------>
