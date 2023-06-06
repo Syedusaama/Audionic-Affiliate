@@ -634,20 +634,19 @@ ul.dropdown li a:hover {
 }
 .faq-box{
     background-color: #fff;
-    padding: 40px;
-    margin-bottom: 10px;
+    padding: 35px;
+    margin-bottom: 15px;
     border-radius: 6px;
     box-shadow: 0 0 10px 3px #d5d5d514;
 }
-.active .faq-box::after {
+.active .faq-box h4::after {
     transform: rotate(180deg);
 }
-.faq-box::after {
+.faq-box h4::after {
     content: "\f0d7";
     font-family: "Font Awesome 5 Pro";
     position: absolute;
     right: 38px;
-    top: 120px;
     font-weight: 300;
     font-size: 2.625rem;
     color: #da0000;
@@ -659,11 +658,11 @@ ul.dropdown li a:hover {
     font-size: 22px;
     font-weight: 600;
     color: #000;
-    padding-bottom: 40px;
 }
 .faq-box p{
     line-height: 1.5;
     width: 80%;
+    padding: 20px 0px;
 }
 /* faq-box */
 
