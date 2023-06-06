@@ -462,7 +462,8 @@ ul.dropdown li a:hover {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 920px;
+    display: flex;
     align-items: center;
     position: relative;
 }
@@ -471,21 +472,27 @@ ul.dropdown li a:hover {
     font-size: 45px;
     font-weight: bold;
     color: #030404;
+    padding-bottom: 40px;
 }
 .heading-sec p{
     font-size: 16px;
     font-weight: normal;
+    line-height: 2;
     color: #030404;
+    padding-bottom: 35px;
 }
 .white-heading-sec h2{
     font-size: 45px;
     font-weight: bold;
     color: #fff;
+    padding-bottom: 40px;
 }
 .white-heading-sec p{
     font-size: 16px;
     font-weight: normal;
     color: #fff;
+    line-height: 2;
+    padding-bottom: 35px;
 }
 .main-btn{
     padding: 25px 120px;
@@ -493,15 +500,39 @@ ul.dropdown li a:hover {
     color: #fff;
     border: 1px solid #030404;
     background-color: #030404;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 .main-btn:hover{
     background-color: transparent;
     color: #030404;
 }
+.main-banner-box h3{
+    font-size: 30px;
+    font-weight: 300;
+    color: #030404;
+    padding-bottom: 20px;
+}
+.main-banner-box h1{
+    font-size: 82px;
+    font-weight: 600;
+    color: #030404;
+    padding-bottom: 60px;
+}
+.main-banner-box p{
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.5;
+    color: #030404;
+    padding-bottom: 35px;
+}
 /*main-banner */
 
-
-
+/* affiliate-program */
+.affiliate-program{
+    padding: 70px 0px;
+}
 
 
 

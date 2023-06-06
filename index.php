@@ -16,8 +16,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="main-banner-box">
-                    <p>Sed ut perspiciatis unde</p>
+                <div class="main-banner-box text-center">
+                    <h3>Sed ut perspiciatis unde</h3>
                     <h1>Become An Affiliate!</h1>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud .</p>
                     <a class="main-btn" href="#">Become An Affiliate!</a>
@@ -31,11 +31,15 @@
 
 
 <!---------------- Join Our Affiliate Program ------------------>
-<section class="main-banner">
+<section class="affiliate-program" style="background-image: url(assets/images/affiliate-program.png);">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                
+            <div class="white-heading-sec text-center">
+                    <h2>Join Our <span style="color: #e91c23;"> Affiliate Program</span></h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud .</p>
+                    <a class="main-btn" href="#">Become An Affiliate!</a>
+                </div>
             </div>
         </div>
     </div>
