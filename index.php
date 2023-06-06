@@ -128,8 +128,21 @@
 <!---------------- How Affiliate Works  ------------------>
 <section class="main-banner">
     <div class="container">
+    <div class="heading-sec text-center">
+                    <h2>How <span style="color: #e91c23;"> Affiliate Works</span></h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                </div>
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-3">
+                
+            </div>
+            <div class="col-md-3">
+                
+            </div>
+            <div class="col-md-3">
+                
+            </div>
+            <div class="col-md-3">
                 
             </div>
         </div>
