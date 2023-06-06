@@ -103,7 +103,7 @@
 <section class="join-the-affiliate">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-6" style="background-image: url(assets/images/affiliate-left.png);  background-repeat:no-repeat;background-size: cover;">
+            <div class="col-md-6" style="background-image: url(assets/images/column-left.jpg);  background-repeat:no-repeat;background-size: cover;">
             <div class="affiliate-coloumns-first" >
                 <div class="white-heading-sec">
                     <h2><span style="color: #e91c23;">#Join </span> The AffiIiate</h2>
@@ -179,7 +179,7 @@
 
 
 <!---------------- Join Our Affiliate Program  ------------------>
-<section class="join-our-affiliate" style="background-image: url(assets/images/bg-join.png);background-repeat: no-repeat;">
+<section class="join-our-affiliate" style="background-image: url(assets/images/bg-join.png);background-repeat: no-repeat;background-size: contain;">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-3">
@@ -187,7 +187,7 @@
             </div>
             <div class="col-md-6">
             <div class="white-heading-sec">
-            <h2>Join Our Affiliate Program</h2>
+            <h2 class="h2-padding">Join Our Affiliate Program</h2>
                 </div>
             </div>
             <div class="col-md-3">

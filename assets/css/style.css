@@ -467,7 +467,10 @@ ul.dropdown li a:hover {
     align-items: center;
     position: relative;
 }
-
+.main-banner-box{
+    max-width: 1000px;
+    margin: 0 auto;
+}
 .heading-sec h2{
     font-size: 45px;
     font-weight: bold;
@@ -480,12 +483,17 @@ ul.dropdown li a:hover {
     line-height: 2;
     color: #030404;
     padding-bottom: 35px;
+    max-width: 1000px;
+    margin: 0 auto;
 }
 .white-heading-sec h2{
     font-size: 45px;
     font-weight: bold;
     color: #fff;
     padding-bottom: 40px;
+}
+.h2-padding{
+    padding-top: 110px;
 }
 .white-heading-sec p{
     font-size: 16px;
@@ -563,6 +571,7 @@ ul.dropdown li a:hover {
 
 .commission-tiers-box{
     max-width: 1500px;
+    margin: 0 auto;
 }
 
 
@@ -610,6 +619,7 @@ ul.dropdown li a:hover {
 }
 .work-main-div{
     max-width: 1500px;
+    margin: 0 auto;
 }
 .work-heading-h2{
     color: #e81c23;
@@ -620,7 +630,7 @@ ul.dropdown li a:hover {
 
 /* earning */
 .earning{
-    padding-top: 100px;
+    /* padding-top: 100px; */
     padding-bottom: 100px;
 }
 /* earning */
