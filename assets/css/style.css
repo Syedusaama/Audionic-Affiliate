@@ -533,13 +533,25 @@ ul.dropdown li a:hover {
 .affiliate-program{
     padding: 70px 0px;
 }
+/* affiliate-program */
+
+/* commission-tiers-box */
+.commission-tiers{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.commission-tiers-box{
+    max-width: 1500px;
+}
 
 
 
-
-
-
-
+/* commission-tiers-box */
 
 
 

@@ -50,11 +50,42 @@
 
 
 <!---------------- Earn with us at Exceptional Commission Tiers ------------------>
-<section class="main-banner">
-    <div class="container">
+<section class="commission-tiers" style="background-image: url(assets/images/commission-tiers.png);">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-md-12">
-                
+                <div class="commission-tiers-box">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <img src="assets/images/watch.png" alt="">
+                            <div class="heading-sec">
+                            <h2><span style="color: #e91c23;">6%</span> for</h2>
+                            <p>Headphones, smartwatches, Wireless earbuds, fitness bands, neckbands</p>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <img src="assets/images/watch.png" alt="">
+                            <div class="heading-sec">
+                            <h2><span style="color: #e91c23;">20</span> Sales on</h2>
+                            <p>On headphones, smartwatches, Wireless earbuds, fitness bands, neckbands</p>
+                        </div>
+                        </div>
+                        <div class="col-md-3">
+                            <img src="assets/images/watch.png" alt="">
+                            <div class="heading-sec">
+                            <h2><span style="color: #e91c23;">8%</span> for</h2>
+                            <p>Headphones, smartwatches, Wireless earbuds, fitness bands, neckbands</p>
+                        </div>
+                        </div>
+                        <div class="col-md-3">
+                            <img src="assets/images/watch.png" alt="">
+                            <div class="heading-sec">
+                            <h2><span style="color: #e91c23;">20+</span> Sales on</h2>
+                            <p>Headphones, smartwatches, Wireless earbuds, fitness bands, neckbands</p>
+                        </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
