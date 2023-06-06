@@ -53,7 +53,7 @@
 }
 
 body {
-    font-family: "Roboto";
+    font-family: 'Lato', sans-serif;
     overflow-x: hidden;
     font-size: 16px;
     line-height: 1;
@@ -66,6 +66,7 @@ h3,
 h4,
 h5,
 h6 {
+    font-family: 'Montserrat', sans-serif;
     display: block;
     font-weight: normal;
 }
@@ -82,6 +83,7 @@ img {
 }
 
 a,
+
 input[type="submit"] {
     -webkit-transition: all 0.4s ease-In-out;
     -moz-transition: all 0.4s ease-In-out;
@@ -89,6 +91,7 @@ input[type="submit"] {
     transition: all 0.4s ease-In-out;
     display: inline-block;
     cursor: pointer;
+    font-family: 'Lato', sans-serif;
 }
 
 a:hover {
@@ -105,6 +108,7 @@ input[type],
 textarea,
 select,
 button {
+    font-family: 'Lato', sans-serif;
     background: transparent;
     border: none;
     border-radius: 0px;
@@ -452,15 +456,75 @@ ul.dropdown li a:hover {
 
 /* Main Banner CSS */
 
-.mainBanner {
+/*main-banner */
+
+.main-banner {
     background-size: cover;
     background-position: center;
-    height: 100vh;
     background-repeat: no-repeat;
-    display: flex;
+    height: 100vh;
     align-items: center;
     position: relative;
 }
+
+.heading-sec h2{
+    font-size: 45px;
+    font-weight: bold;
+    color: #030404;
+}
+.heading-sec p{
+    font-size: 16px;
+    font-weight: normal;
+    color: #030404;
+}
+.white-heading-sec h2{
+    font-size: 45px;
+    font-weight: bold;
+    color: #fff;
+}
+.white-heading-sec p{
+    font-size: 16px;
+    font-weight: normal;
+    color: #fff;
+}
+.main-btn{
+    padding: 25px 120px;
+    border-radius: 56px;
+    color: #fff;
+    border: 1px solid #030404;
+    background-color: #030404;
+}
+.main-btn:hover{
+    background-color: transparent;
+    color: #030404;
+}
+/*main-banner */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media (max-width: 1440px) {}
 
